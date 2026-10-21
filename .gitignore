@@ -1,0 +1,9 @@
+# Distribution packages (Upload to GitHub Releases)
+release/
+*.dmg
+*.exe
+*.zip
+
+# System files
+.DS_Store
+Thumbs.db
