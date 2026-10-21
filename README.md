@@ -46,7 +46,6 @@ Tired of dull system notification banners that get lost in your notification cen
 | Operating System | Architecture | Installer Type | Direct Link |
 | :--- | :--- | :--- | :--- |
 | **macOS** | Apple Silicon (`arm64` - M1 / M2 / M3 / M4) | `.dmg` Package | [Download .dmg](https://github.com/modhamanish/deskbuddy-app/releases/download/v1.0.0/DeskBuddy-1.0.0-arm64.dmg) |
-| **macOS** | Apple Silicon (`arm64`) | `.zip` Portable | [Download .zip](https://github.com/modhamanish/deskbuddy-app/releases/download/v1.0.0/DeskBuddy-1.0.0-arm64-mac.zip) |
 | **Windows** | 64-bit (`x64` - Windows 10 / 11) | Setup Installer `.exe` | [Download .exe](https://github.com/modhamanish/deskbuddy-app/releases/download/v1.0.0/DeskBuddy.Setup.1.0.0.exe) |
 
 > 💡 *All installation packages can also be found on the [GitHub Releases Page](https://github.com/modhamanish/deskbuddy-app/releases).*
